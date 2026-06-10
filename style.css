@@ -316,3 +316,16 @@ body.green {
     display: none;
   }
 }
+nav select {
+  appearance: auto;
+  height: auto;
+}
+
+#bootstrap .card {
+  width: 100%;
+}
+
+#bootstrap .carousel img {
+  max-height: 350px;
+  object-fit: contain;
+}
